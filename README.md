@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 
 ## Prazer, Sou o Fabricio! Aqui você pode ver todos meus projetos desenvolvidos 👨‍💻
 
-• 🎒Técnico em informática na ETEC. ...
-• 💜Formação Desenvolvedor Júnior no Instituto PROA. ...
-• 👨‍💻Estou aprendendo: Java, HTML/CSS e JavaScript. ...
+• 🎒Técnico em informática na ETEC. 
 
-• 🎯 Objetivo: Pretendo me tornar Desenvolvedor Full Stack. ...
+• 💜Formação Desenvolvedor Júnior no Instituto PROA. 
+
+• 👨‍💻Estou aprendendo: Java, HTML/CSS e JavaScript. 
+
+• 🎯 Objetivo: Pretendo me tornar Desenvolvedor Full Stack. 
