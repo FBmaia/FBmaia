@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **FBmaia/FBmaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Seja bem vindo ao meu GitHUB 👋
+
+## Prazer, Sou o Fabricio! Aqui você pode ver todos meus projetos desenvolvidos 👨‍💻
+
+• 🎒Técnico em informática na ETEC.
+• 💜Formação Desenvolvedor Júnior no Instituto PROA.
+• 👨‍💻Estou aprendendo: Java, HTML/CSS e JavaScript.
+
+• 🎯 Objetivo: Pretendo me tornar Desenvolvedor Full Stack.
