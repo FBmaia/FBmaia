@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 
 ## Prazer, Sou o Fabricio! Aqui você pode ver todos meus projetos desenvolvidos 👨‍💻
 
+• 🎒Cursando Banco de Dados na FIAP. 
+
 • 🎒Técnico em informática na ETEC. 
 
 • 💜Formação Desenvolvedor Júnior no Instituto PROA. 
 
-• 👨‍💻Estou aprendendo: Java, HTML/CSS e JavaScript. 
+• 👨‍💻Estou aprendendo: Python e Power BI.
 
 • 🎯 Objetivo: Pretendo me tornar Desenvolvedor Full Stack. 
