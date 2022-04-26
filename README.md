@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 • 💜Formação Desenvolvedor Júnior no Instituto PROA. 
 
-• 👨‍💻Estou aprendendo: MondoDB e Python.
+• 👨‍💻Estou aprendendo: MongoDB e Python.
 
 • 🎯 Objetivo: Pretendo me tornar Desenvolvedor Full Stack. 
