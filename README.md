@@ -1,29 +1,25 @@
-<!--
-### Hi there 👋
-**FBmaia/FBmaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, Sou o Fabricio! Aqui você pode ver todos meus projetos desenvolvidos 👨‍💻
 
-Here are some ideas to get you started:
+- 👨‍💻Hoje trabalho com SQL 
+- 🎒Cursando Banco de Dados na FIAP. 
+- 👨‍💻Estou aprendendo: MongoDB e Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/FBmaia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FBMaia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBmaia&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-# Seja bem vindo ao meu GitHUB 👋
+<div style="display: inline_block"><br>
+ 
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 
-## Prazer, Sou o Fabricio! Aqui você pode ver todos meus projetos desenvolvidos 👨‍💻
+</div>
 
-• 🎒Cursando Banco de Dados na FIAP. 
+##
 
-• 🎒Técnico em informática na ETEC. 
+<div>
+  <a href = "mailto:fabricio.maia.amtonio1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fabricio-maia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-• 💜Formação Desenvolvedor Júnior no Instituto PROA. 
-
-• 👨‍💻Estou aprendendo: MongoDB e Python.
-
-• 🎯 Objetivo: Pretendo me tornar Desenvolvedor Full Stack. 
+</div>
